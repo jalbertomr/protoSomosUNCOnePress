@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Coordinación de Comunicación &#8211; Universidad Nueva Ciencia</title>
+	<atom:link href="https:///jalbertomr.github.io/protoSomosUNCOnePress/author/coordinacion-de-comunicacion/feed/" rel="self" type="application/rss+xml" />
+	<link>https:///jalbertomr.github.io/protoSomosUNCOnePress</link>
+	<description></description>
+	<lastBuildDate>Sat, 17 Jul 2021 21:02:04 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+
+<image>
+	<url>https:///jalbertomr.github.io/protoSomosUNCOnePress/wp-content/uploads/2021/07/cropped-cropped-UNC-PNG-03.png-al75-32x32.png</url>
+	<title>Coordinación de Comunicación &#8211; Universidad Nueva Ciencia</title>
+	<link>https:///jalbertomr.github.io/protoSomosUNCOnePress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nuevas</title>
+		<link>https:///jalbertomr.github.io/protoSomosUNCOnePress/nuevas/</link>
+		
+		<dc:creator><![CDATA[Coordinación de Comunicación]]></dc:creator>
+		<pubDate>Sat, 17 Jul 2021 21:02:04 +0000</pubDate>
+				<category><![CDATA[Dirección General]]></category>
+		<guid isPermaLink="false">https:///jalbertomr.github.io/protoSomosUNCOnePress/?p=142</guid>
+
+					<description><![CDATA[]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Habilidades para un comunicador competente</title>
+		<link>https:///jalbertomr.github.io/protoSomosUNCOnePress/habilidades-para-un-comunicador-competente/</link>
+		
+		<dc:creator><![CDATA[Coordinación de Comunicación]]></dc:creator>
+		<pubDate>Sat, 17 Jul 2021 02:51:23 +0000</pubDate>
+				<category><![CDATA[Difusión]]></category>
+		<guid isPermaLink="false">https:///jalbertomr.github.io/protoSomosUNCOnePress/?p=79</guid>
+
+					<description><![CDATA[Si aún tienes miedo para hablar en publico, el&#160;Colegio de Negocios&#160;de la&#160;Universidad Nueva Ciencia&#160;te invitan a formar parte de esta experiencia&#160;y participar, en el curso-taller, «Habilidades para un comunicador competente»,&#160;donde ...]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>El Colegio de Negocios UNC continúa con sus actividades</title>
+		<link>https:///jalbertomr.github.io/protoSomosUNCOnePress/el-colegio-de-negocios-unc-continua-con-sus-actividades/</link>
+					<comments>https:///jalbertomr.github.io/protoSomosUNCOnePress/el-colegio-de-negocios-unc-continua-con-sus-actividades/#respond</comments>
+		
+		<dc:creator><![CDATA[Coordinación de Comunicación]]></dc:creator>
+		<pubDate>Fri, 16 Jul 2021 23:28:59 +0000</pubDate>
+				<category><![CDATA[Difusión]]></category>
+		<guid isPermaLink="false">https:///jalbertomr.github.io/protoSomosUNCOnePress/?p=19</guid>
+
+					<description><![CDATA[Tepatitlán de Morelos, Jalisco. Impulsamos el talento alteño y formamos profesionistas de alto nivel; comprometidos con esos ideales, la Universidad Nueva Ciencia continúa con sus actividades en el Colegio de ...]]></description>
+		
+					<wfw:commentRss>https:///jalbertomr.github.io/protoSomosUNCOnePress/el-colegio-de-negocios-unc-continua-con-sus-actividades/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
